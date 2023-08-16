@@ -16,6 +16,8 @@ AZURE SERVICES USED - STATIC WEB APPS and RESOURCE MANAGER
 
 <img width="956" alt="Screenshot 2023-08-16 165845" src="https://github.com/romsha10/FinalProject2/assets/134616743/9011517d-4a35-4589-9361-0968efc67c6c">
 
+<img width="960" alt="Screenshot 2023-08-16 172133" src="https://github.com/romsha10/FinalProject2/assets/134616743/98a9f56f-187d-4e2e-a9bf-b7c13ae70820">
+
 <img width="960" alt="Screenshot 2023-08-16 172208" src="https://github.com/romsha10/FinalProject2/assets/134616743/55ab507c-b4a6-4e70-af96-42e2073c293c">
 
 <img width="960" alt="Screenshot 2023-08-16 172230" src="https://github.com/romsha10/FinalProject2/assets/134616743/489cc076-a380-4027-be2e-412c70fa98b0">
@@ -33,5 +35,3 @@ AZURE SERVICES USED - STATIC WEB APPS and RESOURCE MANAGER
 <img width="960" alt="Screenshot 2023-08-16 172356" src="https://github.com/romsha10/FinalProject2/assets/134616743/8ad93004-2544-4875-92cf-69c7a3d27957">
 
 <img width="960" alt="Screenshot 2023-08-16 172609" src="https://github.com/romsha10/FinalProject2/assets/134616743/c1ad9878-2c03-495e-b618-957e88529bca">
-
-<img width="960" alt="Screenshot 2023-08-16 172133" src="https://github.com/romsha10/FinalProject2/assets/134616743/98a9f56f-187d-4e2e-a9bf-b7c13ae70820">
