@@ -14,3 +14,4 @@ All the possible information regarding the university is present on the website.
 
 AZURE SERVICES USED - STATIC WEB APPS and RESOURCE MANAGER
 
+<img width="956" alt="Screenshot 2023-08-16 165845" src="https://github.com/romsha10/FinalProject2/assets/134616743/9011517d-4a35-4589-9361-0968efc67c6c">
